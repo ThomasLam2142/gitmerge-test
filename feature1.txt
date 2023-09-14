@@ -1,2 +1,1 @@
-CHANGE
-feature1 Bugfix
+conflict 2
