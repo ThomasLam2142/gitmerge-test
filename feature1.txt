@@ -1,2 +1,2 @@
-feature1 CHANGE
+CHANGE
 feature1 Bugfix
